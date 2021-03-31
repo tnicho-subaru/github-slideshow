@@ -1,2 +1,2 @@
 # github-slideshow
-A robot powered training repository :robot:
+A robot powered training repository updated :robot:
